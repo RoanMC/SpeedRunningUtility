@@ -1,6 +1,6 @@
-package dev.arcticgaming.runnerutils.utils;
+package dev.roan.runnerutils.utils;
 
-import dev.arcticgaming.runnerutils.Reset;
+import dev.roan.runnerutils.Reset;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
