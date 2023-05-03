@@ -30,7 +30,7 @@ public final class Main extends JavaPlugin implements Listener {
 
         on Entity Portal Event - run all players through the reset function if the portal was the end portal in the end
 
-        on Cmd "evac" - send player through reset function
+        on Cmd "evac" - send player through reset function.
          */
         Bukkit.getPluginManager().registerEvents(this,this);
         final PluginManager pm = getServer().getPluginManager();
