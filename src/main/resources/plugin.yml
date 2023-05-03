@@ -1,0 +1,13 @@
+name: RunnerUtils
+version: '${project.version}'
+main: dev.arcticgaming.runnerutils.Main
+api-version: 1.16
+commands:
+  evac:
+    description: Exits the current run and returns players to the Runner Hub
+    usage: /evac
+  wc:
+    description: Creates a new series of worlds - usage /wc <worldName> <optional:seed>
+    usage: /wc <worldName> <optional:seed>
+  clean:
+    description: Cleans up a specific world
